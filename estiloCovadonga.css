@@ -33,19 +33,15 @@ h2 {
     font-size: 1.5em;
 }
 
-#navegacion {
-    overflow: hidden;
-}
-
 #navegacion a {
     margin-left: .5em;
-    padding: .3em .3em .1em .3em;
+    padding: .1em .3em;
     text-decoration: none;
     color: #799f08;
-    border-bottom: none;
     background-color: #e7ffe0;
     border: 1px solid #799f08;
     border-top: none;
+    display: inline-block;
 }
 
 #navegacion a:hover {
